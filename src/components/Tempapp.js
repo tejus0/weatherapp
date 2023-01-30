@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import "./style.css";
 // import {FontAwesomeIcon} from 'react-icons'
-import { FaBeer } from 'react-icons/FaStreetView';
+// import { FaBeer } from 'react-icons/FaStreetView';
+import {FaBeer} from 'react-icons/fa'
 
 const Tempapp = () => {
 
